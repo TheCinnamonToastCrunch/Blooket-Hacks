@@ -40,11 +40,6 @@
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Flappy-Blook/Set-Score.js">Set Score</a> - Set your score to whatever you want.
 
 
-- Santa's Workshop
-    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Santas-Workshop/Set-Toys.js">Set Toys</a> - Set your toys to whatever you want.
-    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Santas-Workshop/Set-Toys-Per-Question.js">Set Toys Per Question</a> - Set your toys per question to whatever you want.
-
-
 - Gold Quest:
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Gold-Quest/Chest-ESP.js">Chest ESP</a> - See through Chests.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Gold-Quest/Set-Gold.js">Set Gold</a> - Set your Gold to whatever you want.
