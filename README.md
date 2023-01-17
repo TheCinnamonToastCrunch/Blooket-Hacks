@@ -31,7 +31,7 @@
 
 - Host:
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Host/End-Game.js">End Game</a> - End the game.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default-Scripts/Host/Kick-All.js">Kick All</a> - Kick all players that are currently in the game.
+    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Host/Kick-All.js">Kick All</a> - Kick all players that are currently in the game.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Host/Remove-Player.js">Remove Player</a> - Remove a specific player from a game.
 
 
