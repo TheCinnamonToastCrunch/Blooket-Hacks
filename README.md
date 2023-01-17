@@ -47,7 +47,7 @@
 
 - Monster Brawl:
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Monster-Brawl/Invincibility.js">Invincibility</a> - Never take damage from enemies.
-    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Monster-Brawl/Max%Abilities.js">Max Abilities</a> - Set all your current abilities' level to 9.
+    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Monster-Brawl/Max-Abilities.js">Max Abilities</a> - Set all your current abilities' level to 9.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Monster-Brawl/Set-Level.js">Set Level</a> - Set your level to whatever you want.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Monster-Brawl/Set-XP.js">Set XP</a> - Set your XP to whatever you want.
 
