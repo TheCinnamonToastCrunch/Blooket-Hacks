@@ -24,7 +24,7 @@
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Flood-Game.js">Flood Game</a> - Flood the game that you are in.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Get-Folder.js">Get Folder</a> - Make a folder in the My-Sets page without the Blooket Plus plan.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Manipulate-Plus.js">Manipulate Plus</a> - Gives you access in a spoof to play gamemodes that only Plus and/or Plus Flex members can play.
-    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Select-Any-Blook.js">Select Any Blook</a> - Be able to select any Blook before the game starts, including Mysticals and test Blooks!
+    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Select-Any-Blooks.js">Select Any Blook</a> - Be able to select any Blook before the game starts, including Mysticals and test Blooks!
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Default-Scripts/Sell-Dupes.js">Sell Dupes</a> - Sell all of your duplicate Blooks, so you have one (or zero) of each.
 
 
