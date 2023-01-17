@@ -8,10 +8,11 @@
 #### Desktop: 
 1. Open the file you find interesting.
 2. Use the copy button on the file, or click "Raw" and copy it all.
-3. Open the Inspect tool.
-4. Switch to the Console.
-5. Paste the script.
-6. Click enter.
+3. Switch to the Blooket game.
+4. Click the search bar.
+5. Type "javascript:"
+6. Paste the script.
+7. Click enter.
 
 ## Features:
 - Default Scripts:
