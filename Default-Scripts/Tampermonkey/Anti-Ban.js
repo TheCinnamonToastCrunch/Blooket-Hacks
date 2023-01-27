@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Anti-Ban
-// @namespace    https://github.com/rxzyx/Blooket-Hacks/
+// @namespace    https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/
 // @version      1.0
 // @description  Prevents you from being banned in Blooket.
 // @author       @rxzyx (rzx)
