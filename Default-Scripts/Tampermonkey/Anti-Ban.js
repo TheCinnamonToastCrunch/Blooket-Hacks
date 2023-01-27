@@ -3,7 +3,7 @@
 // @namespace    https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/
 // @version      1.0
 // @description  Prevents you from being banned in Blooket.
-// @author       @rxzyx (rzx)
+// @author       @TheCinnamonToastCrunch (TCTC)
 // @match        *://dashboard.blooket.com/*
 // @match        *://play.blooket.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=blooket.com
