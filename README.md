@@ -100,7 +100,7 @@
 
 
 - Tower of Doom:
-    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Tower-Of-Doom/Bad-Enemy.js">Bad Enemy</a> - Minimize the opponent's cards' stats.
+    - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Tower-of-Doom/Bad-Enemy.js">Bad Enemy</a> - Minimize the opponent's cards' stats.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Tower-Of-Doom/Set-Coins.js">Set Coins</a> - Set your coins to whatever you want.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Tower-Of-Doom/Set-Health.js">Set Health</a> - Set your health to whatever you want.
     - <a href="https://github.com/TheCinnamonToastCrunch/Blooket-Hacks/blob/main/Tower-Of-Doom/Max-Stats.js">Max Stats</a> - Maximize your cards' stats.
@@ -111,4 +111,4 @@
 <h3 align="left">Made With JavaScript:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-#### Copyright &copy; 2022 TCTC.
+#### Copyright &copy; 2023 TCTC.
